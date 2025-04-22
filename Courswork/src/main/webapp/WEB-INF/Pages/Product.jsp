@@ -7,15 +7,14 @@
   <meta name="description" content="Everything iPhone - Products Page">
   <title>Products - Everything iPhone</title>
   <link rel="stylesheet" href="${pageContext.request.contextPath}/Css/Product.css"/>
-  <link rel="stylesheet" href="${pageContext.request.contextPath}/Css/header.css"/>
+  <link rel="stylesheet" href="${pageContext.request.contextPath}/Css/Header.css"/>
   <link rel="stylesheet" href="${pageContext.request.contextPath}/Css/footer.css"/>
   
   
 </head>
 <body>
 
-	<jsp:include page="header.jsp" />
-  
+	<jsp:include page="header.jsp"/>
 
   <section class="product-header">
     <h1> Our Products</h1>

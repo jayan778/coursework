@@ -7,15 +7,14 @@
   <meta name="description" content="Everything iPhone - Authorized Apple iPhone Seller" />
   <meta name="author" content="Everything iPhone"/>
   <title>Everything iPhone</title>
-<link rel="stylesheet" href="${pageContext.request.contextPath}/Css/home.css"/>
-  <link rel="stylesheet" href="${pageContext.request.contextPath}/Css/header.css"/>
+  <link rel="stylesheet" href="${pageContext.request.contextPath}/Css/home.css"/>
+  <link rel="stylesheet" href="${pageContext.request.contextPath}/Css/Header.css"/>
   <link rel="stylesheet" href="${pageContext.request.contextPath}/Css/Footer.css"/>
 </head>
 <body>
 
   <!-- Header Include -->
 	<jsp:include page="header.jsp"/>
-	
   <!-- Hero Section -->	
   <section class="header">
   

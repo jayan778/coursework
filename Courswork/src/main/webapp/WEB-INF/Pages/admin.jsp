@@ -126,7 +126,7 @@
     <ul>
       <li class="tab active" onclick="switchTab('products')">Product Management</li>
       <li class="tab" onclick="switchTab('orders')">Order Management</li>
-      <li class="tab" onclick="switchTab('analytics')">Reports & Analytics</li>
+      <li class="tab" onclick="switchTab('analytics')">Reports and Analytics</li>
       <li class="tab" onclick="switchTab('users')">User Management</li>
     </ul>
   </div>
@@ -189,7 +189,7 @@
 
     <!-- Reports & Analytics -->
     <div id="analytics" class="section">
-      <h3>Reports & Analytics</h3>
+      <h3>Reports and Analytics</h3>
       <table>
         <tr><th>Metric</th><th>Value</th></tr>
         <tr><td>Top-Selling Product</td><td>Wireless Headphones</td></tr>

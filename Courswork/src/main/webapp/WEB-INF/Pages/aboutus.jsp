@@ -8,7 +8,7 @@
     <meta http-equiv="refresh" content="120">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
  	<link rel="stylesheet" href="${pageContext.request.contextPath}/Css/about us.css"/>
- 	<link rel="stylesheet" href="${pageContext.request.contextPath}/Css/header.css"/>
+ 	<link rel="stylesheet" href="${pageContext.request.contextPath}/Css/Header.css"/>
   	<link rel="stylesheet" href="${pageContext.request.contextPath}/Css/Footer.css"/>
 </head>
 	
